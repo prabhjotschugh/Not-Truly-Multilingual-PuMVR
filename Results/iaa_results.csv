@@ -1,0 +1,6 @@
+Dimension,Agreements,Disagreements,Pct_Agreement,Kappa,Alpha,Skewed,Kappa_Interpretation,Alpha_Interpretation
+semantic_equivalence,1000,0,100.0%,N/A,1.0,True,Kappa Paradox,Strong (>=0.800)
+answer_correctness,985,15,98.5%,0.0,0.7484,True,Slight (0.00-0.20),Allows tentative conclusions
+script_accuracy_gurmukhi,999,1,99.9%,0.0,0.7501,True,Slight (0.00-0.20),Allows tentative conclusions
+script_accuracy_shahmukhi,999,1,99.9%,0.0,0.7501,True,Slight (0.00-0.20),Allows tentative conclusions
+script_accuracy_roman,1000,0,100.0%,N/A,1.0,True,Kappa Paradox,Strong (>=0.800)
